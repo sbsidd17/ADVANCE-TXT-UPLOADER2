@@ -5,7 +5,7 @@
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Tushar](@Courselelohelp_bot)
+🥳 Credit Goes To [bharat](https://t.me/+vzhqb2RVeTcyMTNl)
 
   
 ## 🔥 Commands
