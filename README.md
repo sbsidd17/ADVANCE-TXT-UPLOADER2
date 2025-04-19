@@ -46,4 +46,4 @@ Buildpack - https://github.com/heroku/heroku-buildpack-activestorage-preview
 
 ## Deploy To Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Tushar557845/ADVANCE-TXT-UPLOADER)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/bharat-029/ADVANCE-TXT-UPLOADER)
