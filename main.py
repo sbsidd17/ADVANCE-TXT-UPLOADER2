@@ -627,8 +627,10 @@ async def upload(bot: Client, m: Message):
             #elif '/master.mpd' in url:
              #id =  url.split("/")[-2]
              #url = f"https://dl.alphacbse.site/download/{id}/master.m3u8"
+            #API : mdclassesapi.classx.co.in
+             eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjM3MjYzNCIsImVtYWlsIjoiYWxva3M5ODgwQGdtYWlsLmNvbSIsInRpbWVzdGFtcCI6MTc0NTE2MjMxMSwidGVuYW50VHlwZSI6InVzZXIiLCJ0ZW5hbnROYW1lIjoiIiwidGVuYW50SWQiOiIiLCJkaXNwb3NhYmxlIjpmYWxzZX0.hKp6GGKJiMiiF3Uf55ZniLHmgeP74J8CM2fk_OYhL_k
+
             
-        
             name1 = links[i][0].replace("\t", "").replace(":", "").replace("/", "").replace("+", "").replace("#", "").replace("|", "").replace("@", "").replace("*", "").replace(".", "").replace("https", "").replace("http", "").strip()
             name = f'{str(count).zfill(3)}) {name1[:60]}'
 
