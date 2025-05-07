@@ -1,5 +1,4 @@
-# Don't Remove Credit Tg - @Courselelohelp_bot 
-# Ask Doubt on telegram @Courselelohelp_bot 
+
 
 import logging
 from logging.handlers import RotatingFileHandler
