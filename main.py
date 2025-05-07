@@ -142,7 +142,7 @@ image_urls = [
     # Add more image URLs as needed
 ]
 random_image_url = random.choice(image_urls) 
-image_url = "image_url"
+image_url = "https://envs.sh/kkB.jpg"
 # Caption for the image
 caption = (
         "**ʜᴇʟʟᴏ👋**\n\n"
